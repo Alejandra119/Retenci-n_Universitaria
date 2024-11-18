@@ -37,6 +37,3 @@ Promedio de Unidades Aprobadas y Calificaciones por Estado de Target: Compara el
 - Crear KPIs en Power BI según las fórmulas proporcionadas en el análisis.
 - Entrenar el modelo de Random Forest y evaluar los resultados.
 - Visualizar los resultados en un dashboard de Power BI.
-## Conclusión
-Este análisis proporciona una comprensión integral de los factores que afectan la retención y el éxito académico de los estudiantes. Los KPIs y el modelo predictivo desarrollados permiten anticipar problemas y apoyar la toma de decisiones estratégicas en la universidad.
-
